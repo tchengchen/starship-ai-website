@@ -32,7 +32,7 @@
 
 ## 后续配置
 
-后续可以增加预约链接或接入真实表单服务。提供正式域名后可配置 GitHub Pages 自定义域名；当前不设置未知域名的 CNAME 或 canonical URL。
+后续可以增加预约链接或接入真实表单服务。正式域名为 `starship.com.hk`，通过 GitHub Pages 自定义域名和 HKDNR DNS Hosting 直接提供网站；浏览器地址栏保留公司域名。
 
 ## 版本
 
